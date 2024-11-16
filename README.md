@@ -1,6 +1,8 @@
-# Clito - The trpg game engine
+![banner](./assets/Dragon%20core%20banner.webp)
 
-Clito was first made for a textual dragon ball game. Based on a school projet that I had.
+# Dragon Core - The trpg game engine
+
+Dragon Core was first made for a textual dragon ball game. Based on a school projet that I had.
 The goal of this school project was to implement as much as design pattern as possible. And create a game with that.
 
 From now, I will like to continue building the **engine** part of this game that can be found [@dbz-explorer](https://github.com/nak0x/dbz-explorer).
