@@ -1,10 +1,10 @@
 from time import sleep
 import os
 
-from engine.core import ThreadSafeSingletonMeta
-from engine.scene import EngineScene
-from engine.core.input_handler import InputHandler, Input
-from engine.store import EngineStore
+from dragon_core.core import ThreadSafeSingletonMeta
+from dragon_core.scene import EngineScene
+from dragon_core.core.input_handler import InputHandler, Input
+from dragon_core.store import EngineStore
 
 class Engine(metaclass=ThreadSafeSingletonMeta):
     _scene: EngineScene
