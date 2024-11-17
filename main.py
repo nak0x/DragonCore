@@ -4,7 +4,7 @@ from dragon_core.engine import (
     EngineScene,
     InputHandler
 )
-from dragon_core.scenes import HomeScene
+from dragon_core.defaults.scenes import HomeScene
 
 game_scene = EngineScene(HomeScene())
 game_store = EngineStore()
